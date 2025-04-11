@@ -1,4 +1,5 @@
 #include "sort.h"
+#include <unistd.h>
 
 /**
  * swap - A function that swap 2 integers
