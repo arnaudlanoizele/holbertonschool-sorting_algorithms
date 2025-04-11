@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <unistd.h>
 
 /**
  * lomuto_partition - Partitions the array using Lomuto scheme
